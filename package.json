@@ -1,16 +1,16 @@
 {
-"name": "fafa800",
-"theme": "fafa800",
-"version": "6.10.3",
-"description": "fafa800 สมัครสมาชิกเว็บบาคาร่าเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
-"keywords": [
-"fafa800",
-"fafa800 เครดิตฟรี",
-"fafa800 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/fafa800",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "fafa800",
+  "theme": "fafa800",
+  "version": "6.11.0",
+  "description": "fafa800 สมัครสมาชิกเว็บบาคาร่าเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+  "keywords": [
+    "fafa800",
+    "fafa800 เครดิตฟรี",
+    "fafa800 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/fafa800",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
